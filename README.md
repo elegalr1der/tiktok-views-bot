@@ -5,6 +5,7 @@ tiktok views bot tool x-ladon x-gorgon x-argus, full api TikTok, tiktok x-khrono
 
 ## Contact Telegram @elegalr1der
 https://t.me/elegalr1der
+## email: elegalr1der@proton.me
 
 # tiktokapi
 
